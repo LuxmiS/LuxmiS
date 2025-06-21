@@ -58,16 +58,6 @@ I'm a recent **First Class MEng Computer Systems Engineering** graduate from **R
 
 ---
 
-## 📊 GitHub Stats
-
-![Luxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🖼️ Deep Learning for Super Resolution Image Reconstruction
@@ -82,13 +72,14 @@ Computer vision system for automated analysis of medical images related to COVID
 
 ### 🚗 Automatic Car Park Demonstration System
 **Tech Stack:** Embedded Systems, Computer Vision, Real-time Processing  
-Final year group project developing an intelligent car park management system with automated vehicle detection.
+Final-year group project on developing an intelligent car park management system with automated vehicle detection.
 [🔗 View Project](https://github.com/YOUR_USERNAME/auto-carpark-system)
 
 ### 📊 Customer Segmentation with K-Means Clustering
 **Tech Stack:** Python, PySpark, Azure ML, Databricks  
 Industry project at Centrica using unsupervised learning for customer intelligence and business insights.
 [🔗 View Project](https://github.com/YOUR_USERNAME/customer-segmentation)
+
 ---
 
 ## 💼 Professional Experience
@@ -96,7 +87,7 @@ Industry project at Centrica using unsupervised learning for customer intelligen
 ### 🏢 Data Scientist - Software Engineering | Centrica
 **Sep 2023 - Sep 2024 | Windsor**
 - Developed and deployed **machine learning models** to improve customer intelligence capabilities
-- Utilized **SQL and PySpark** for large-scale data extraction and analysis on cloud platforms (Databricks)
+- Utilised **SQL and PySpark** for large-scale data extraction and analysis on cloud platforms (Databricks)
 - Conducted **exploratory data analysis (EDA)** to identify trends and support data-driven decisions
 - Presented technical findings to non-technical stakeholders across business units
 
@@ -177,7 +168,7 @@ Industry project at Centrica using unsupervised learning for customer intelligen
 - Large-scale data processing with PySpark
 - Cloud-based analytics platforms (Azure ML, Databricks)
 - ETL pipelines and data transformation
-- Exploratory data analysis and visualization
+- Exploratory data analysis and visualisation
 
 **⚡ Embedded Systems:**
 - Real-time digital signal processing
@@ -201,6 +192,6 @@ I'm always interested in collaborating on innovative projects that combine **mac
 
 **"Transforming data into insights, ideas into innovation."**
 
-*Passionate about creating technology that makes a difference* ✨
+✨ *Passionate about creating technology that makes a difference* ✨
 
 </div>
