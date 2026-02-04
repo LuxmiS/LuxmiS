@@ -4,9 +4,9 @@
 
 > MEng Computer Systems Engineering graduate with industry experience in ML, data science, and embedded systems
 
-📍 **Location:** Watford, Hertfordshire, UK  
+📍 **Location:** Hertfordshire, UK  
 🎯 **Focus:** Machine Learning, Data Science, Computer Vision  
-🏢 **Experience:** Data Scientist at Centrica | Student Leader & STEM Advocate  
+🏢 **Experience:** Data Scientist | Software Developer
 📧 **Contact:** [Luxmi.sharma.tloz@gmail.com](mailto:Luxmi.sharma.tloz@gmail.com)  
 💼 **LinkedIn:** [luxmi-sharma-tloz](https://www.linkedin.com/in/luxmi-sharma-tloz/)
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a recent **First Class MEng Computer Systems Engineering** graduate from **Royal Holloway, University of London**, with **one year of industry experience** as a Data Scientist at Centrica. I bring expertise in **machine learning, data science, and embedded systems**, with a passion for creating innovative solutions that make a real-world impact.
+I'm a recent **First Class MEng Computer Systems Engineering** graduate, with **one year of industry experience** as a Data Scientist. I bring expertise in **machine learning, data science, and embedded systems**, with a passion for creating innovative solutions that make a real-world impact.
 
 **What drives me:**
 - 🤖 **AI/ML Innovation:** Developing intelligent systems that solve complex problems
@@ -77,25 +77,25 @@ Final-year group project on developing an intelligent car park management system
 
 ### 📊 Customer Segmentation with K-Means Clustering
 **Tech Stack:** Python, PySpark, Azure ML, Databricks  
-Industry project at Centrica using unsupervised learning for customer intelligence and business insights.
+Industry project using unsupervised learning for customer intelligence and business insights.
 [🔗 View Project](https://github.com/YOUR_USERNAME/customer-segmentation)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Data Scientist - Software Engineering | Centrica
+### 🏢 Data Scientist - Software Engineering 
 **Sep 2023 - Sep 2024 | Windsor**
 - Developed and deployed **machine learning models** to improve customer intelligence capabilities
 - Utilised **SQL and PySpark** for large-scale data extraction and analysis on cloud platforms (Databricks)
 - Conducted **exploratory data analysis (EDA)** to identify trends and support data-driven decisions
 - Presented technical findings to non-technical stakeholders across business units
 
-### 🎓 Student Ambassador | Royal Holloway University
+### 🎓 Student Ambassador 
 **Jul 2021 - Present**
 - Represent the university at **UCAS fairs** and prospective student events
 - Lead **campus tours** and create promotional video content
-- Mentor younger students and provide guidance on academic choices
+- Mentor younger students and guide academic choices
 - Support university outreach initiatives and open days
 
 ---
@@ -126,7 +126,7 @@ Industry project at Centrica using unsupervised learning for customer intelligen
 ```
 
 ### 🌱 Social Impact
-- **Charity Leadership:** Organized environmental initiative with 50+ colleagues
+- **Charity Leadership:** Organised environmental initiative with 50+ colleagues
 - **Mentorship:** Supporting prospective students in STEM career choices  
 - **Public Engagement:** Science festival volunteer and university ambassador
 - **Creative Outreach:** Digital art and animation for educational content
@@ -175,16 +175,6 @@ Industry project at Centrica using unsupervised learning for customer intelligen
 - System-on-chip design and implementation
 - Hardware-software integration
 - VHDL programming and FPGA development
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on innovative projects that combine **machine learning**, **data science**, and **embedded systems**. Whether you're working on cutting-edge AI applications, hardware-software integration, or have ideas for impactful technology solutions, I'd love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luxmi-sharma-tloz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luxmi.sharma.tloz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
